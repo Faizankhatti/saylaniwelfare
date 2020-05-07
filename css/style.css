@@ -1,0 +1,115 @@
+.top_bar{
+    background-color: #316DC3;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.social_icon{
+    margin-right: 15px;
+}
+
+.tex_dec{
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
+
+
+.sta1{
+    color: #427900;
+    font-size: 10px;
+}
+
+ .pic{
+    width: 170px;
+    margin-top: 5px;
+}
+
+.mai_menu{
+    background-color: #F7F8FA;
+}
+
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+.my_menu .navbar-nav li a:hover{
+    background-color: #316DC3;
+    color: white;
+    border-radius: 25px;
+
+}
+
+.pic2{
+    width: 100%;
+    min-height: 200px;
+    max-height: 460px;
+}
+
+.marq{
+    color: white;
+    background-color: #316DC3;
+
+}
+
+.intro{
+    font-weight: bold;
+    color: green;
+    
+}
+
+.intro1{
+    font-weight: bold;
+    color: #316DC3;
+}
+
+.some{
+    background-color: #2755E9;
+}
+
+.aicon{
+    margin: 5px;
+    padding: 30px;
+    width: 100px;
+}
+
+.hicon{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.h6icon{
+    color: white;
+}
+
+.mon{
+    color: #00FF00;
+}
+
+
+.text3{
+    color: #316DC3;
+}
+
+.foot1{
+    background-color: #316DD9;
+}
+
+.bcktop{
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+}
+
+
+
+
+
+
+
+
